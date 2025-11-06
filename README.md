@@ -1,1 +1,30 @@
-# CNS-Plus-business-plan-
+# CNS Plus Business plan
+
+Creative Network Square
+# Vision 
+To inspire creatives of all skill levels to help and enable each other to produce higher quality IP
+# Mission
+to improve the webcomic industry by providing a resource to learn and an open source CMS to publish along with a place to create and network with other artists plus share their webcomic
+Why we made it- to encourage people to realize the benefits of helping each other through sharing
+Description
+Who – Primarily new and veteran webcomic creators, but also aspiring and professional comic book artist, and comic book enthusiast
+
+Why they use it – to gain the exposure/experience needed to break into the comics and related industries; working for publishers or self-publishing and if they are a reader find new comics
+
+What
+A community-driven non-profit network with a focus on developing products, resources, and services that enables creatives of all levels to network and share their knowledge and skills to publish, promote plus collaborate to help each other create higher quality IP of their own.
+
+How (one paragraph) – benefit webcomic creators and reader by creating an online directory of a comic character created by a user that is affiliated with more than one story through creative commons. This will encourage readers to follow the character of their favorite comic to be introduced to new ones. It benefits artist/writers by enabling them to contribute to one-shot comics of current and potentially new comics
+Overview
+(Sandwich it, talk about the customer the tell me
+My story then back to the customer then sell/present the product)
+CNS is short for creative network square and will be similar to a town square but for artist and it's on the internet 
+Like many other kids in 90s I watched many of Movies, Saturday morning cartoons, and anime adapted from comics and manga. Once I discovered and started reading the comics and manga from these shows I became inspired me and wanted to create a comic of my own. 
+I started working on my own comic at the ripe old age of 8, by 11 Started drawing it the actual comic.
+[Image of old comic]
+This around the time of the .com bubble, so I didn’t want to make just any comic. It was to be what I thought at the time revolutionary ― I was going to put it on the web! As you can probably tell I was oblivious of the existence of webcomics at the time.
+Unfortunately by time I got in highschool I found new interests and stopped drawing and writing so I never finished. But by the end of college I got back into comics, manga. With this came a renewed Interest in art and started working on my original comic idea again.
+Of course after so much time away I came back a little rusty but wiser and the webcomic Industry had changed as well. This sparked new Ideas and of course just like before I couldn’t just create a webcomic I want to be revolutionary, but unlike last time It will be from new perspective and a plan will take it one step at a time. 
+i plan for cns to become a community and a place for creatives to help each and learn and grow together for right now the focus will be on webcomics as I create my own webcomic I will be build free and open source products (this includes the webcomic as well) to make it better and share them on cns plus along with tips and trips I learn along the way. Since I am just getting started with my webcomic I will be building everything for it from scratch the first thing I will be releasing is a CMS designed just for webcomics. I will keep you updated and the latest current and upcoming projects and features. And you can also send your contribution features wish list and if you can contribute on open source projects on github
+Why open it is to increase competition and make sure someone succeeded improve upon what i fail and to prevent a wonder bread incident
+Going forward most of the projects will be aimed at improving our flagship product webcomic + cms although you will not be required to need the cms in order to benefit from cns products and services. Using the first party equal third party philosophy Whatever I build for myself my webcomic may also be useful for others and it will be made available for others free and open sourced. This also goes for what I learn and even my skills someone other might have a need for it so I will share and trade those as well
