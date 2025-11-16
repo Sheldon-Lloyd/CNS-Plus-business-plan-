@@ -28,3 +28,37 @@ Of course after so much time away I came back a little rusty but wiser and the w
 i plan for cns to become a community and a place for creatives to help each and learn and grow together for right now the focus will be on webcomics as I create my own webcomic I will be build free and open source products (this includes the webcomic as well) to make it better and share them on cns plus along with tips and trips I learn along the way. Since I am just getting started with my webcomic I will be building everything for it from scratch the first thing I will be releasing is a CMS designed just for webcomics. I will keep you updated and the latest current and upcoming projects and features. And you can also send your contribution features wish list and if you can contribute on open source projects on github
 Why open it is to increase competition and make sure someone succeeded improve upon what i fail and to prevent a wonder bread incident
 Going forward most of the projects will be aimed at improving our flagship product webcomic + cms although you will not be required to need the cms in order to benefit from cns products and services. Using the first party equal third party philosophy Whatever I build for myself my webcomic may also be useful for others and it will be made available for others free and open sourced. This also goes for what I learn and even my skills someone other might have a need for it so I will share and trade those as well
+
+# Point System
+You start off with maybe 10000. Which is over! 9000! points! You can use the points to advertise for help for your comic book. Evertime someone contributes to the comic they will get poits of your choice. HTe more points you give the greater talent you will attract. The more you contribute to other projects the more points you earn. When you need more points you can also use cash to buy more points if you don't have time to contribute--which I assume will be the way most people use point system. 
+
+# Character/Idea Vault
+People can also earn points by offering their character or idea as tribute. they will get points rather it is creative commons or not it might encourage more peolple to liecnce work as creative commns because they will be the ones that people will gravitate toward. The characters can start as an character profile and people can ask for help drawing it or they can draw thier self. It will be great for artist that  need practice as a character designer. 
+
+# Fan fiction
+CC work can also encourage people to make fan fictions which will also encourage CC work as they will be able to promote the th
+
+
+## My 2 cents
+You can give 2 points to upvote on the comic character, inked page, penciled page, color page etc. This will give the contributor points. The owner of the comic can then choose which contribution they wnat to add to the comic. This makes it like patron and if you give more than 2 cents you get an NFT of the contribution. Maybe if you match the top contributor this way it is like biding on art expect you can not lose the bid if someone bids higher than you.
+
+## My 3 Sentences
+People will get paid for contributing feedback on work but they will not get paid for upvotes at leat in the begining depending on how things go I may allow them to get paid as will but a less percentage than the people that contributed art work. Maybe even get aid based on upvotes
+
+# Recurisive points
+To make sure people get paid a fair share people get paid recursvly. This means if I contribute a pencil someone else can take that pencil and press the button to make a deviation/change to the original. THe OG creater will get attribution allong with the the person that made the OG art. I will have to work out the distribution of points based on votes from contributors of the CNS open source project.
+
+# StumbleUpon like Ads
+your comic is advertise randomly in which you can keep clicking the random button until you find a comic you want to conrtribute to. The person advertising is gurentueed to get contributions and  the person contributing is gurrented to get paid so thier will be no spec work. 
+
+# MVP
+Using github and reddit for contributions and voting and maybe using reddits coins system along with git hubs payment system
+
+# Everchanging sytem
+THier will be a chief tournament in whic the winner will be crown co chief of CNS plus they will get to have input on ideas of the system. THis is one posiblity another is that AI will compete to be crown co cheif to help come up with ideas. it may be chatgpt gemni cronk etc. The Ais winner will be based votes at first then a CNS+chacter card gaemthen evolve to a cyber.beast game to crown the co chief
+
+# Entertainment indutsry
+## Music
+People will be able to contribute music like CC Mixer some will provide the beat others will others the lryics antoher the voice. The songs can be modifeed by any one making america great again one beat at time
+# Anime
+Comic will eventually evolve into animation which will be paired with music for opening songs and songs within the story. The comic will basicly serve as story boards and tween. My comic will serve as the base as I will draw it as one panel pages instead of 3-5 panels. Hopefully others will follow suite
