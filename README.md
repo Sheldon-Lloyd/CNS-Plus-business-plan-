@@ -30,20 +30,20 @@ Why open it is to increase competition and make sure someone succeeded improve u
 Going forward most of the projects will be aimed at improving our flagship product webcomic + cms although you will not be required to need the cms in order to benefit from cns products and services. Using the first party equal third party philosophy Whatever I build for myself my webcomic may also be useful for others and it will be made available for others free and open sourced. This also goes for what I learn and even my skills someone other might have a need for it so I will share and trade those as well
 
 # Point System
-You start off with maybe 10000. Which is over! 9000! points! You can use the points to advertise for help for your comic book. Evertime someone contributes to the comic they will get poits of your choice. HTe more points you give the greater talent you will attract. The more you contribute to other projects the more points you earn. When you need more points you can also use cash to buy more points if you don't have time to contribute--which I assume will be the way most people use point system. 
+You start off with maybe 10000. Which is over! 9000! points! You can use the points to advertise for help for your comic book. Evertime someone contributes to the comic they will get poits of your choice. HTe more points you give the greater talent you will attract. The more you contribute to other projects the more points you earn. When you need more points you can also use cash to buy more points if you don't have time to contribute--which I assume will be the way most people use point system. Buying points will be the main way that CNS plus earns money. The second will be Ads on the comic. Points can also maybe be used to advertise a comic. Maybe the more popular CNS becomes the more points will cost to buy. This will mean early adopters will have the advantatage
 
 # Character/Idea Vault
-People can also earn points by offering their character or idea as tribute. they will get points rather it is creative commons or not it might encourage more peolple to liecnce work as creative commns because they will be the ones that people will gravitate toward. The characters can start as an character profile and people can ask for help drawing it or they can draw thier self. It will be great for artist that  need practice as a character designer. 
+People can also earn points by offering their character or idea as tribute. they will get points rather it is creative commons or not it might encourage more peolple to liecnce work as creative commns because they will be the ones that people will gravitate toward. The characters can start as an character profile and people can ask for help drawing it or they can draw thier self. It will be great for artist that  need practice as a character designer. People can also add ideas to the vault this way people can get paid for ideas may 2 points. The vault is spefic to CNS plus and is the only centralized part of the website. People can buy these idea and characters to use in thier comic using points
 
 # Fan fiction
-CC work can also encourage people to make fan fictions which will also encourage CC work as they will be able to promote the th
+CC work can also encourage people to make fan fictions which will also encourage CC work. This become free promotion from fans including fan art. It will also allow fans to get paid for being fans and also create the posibilty of a a fan chaarcter being used in the comic of their favorite creator
 
 
 ## My 2 cents
 You can give 2 points to upvote on the comic character, inked page, penciled page, color page etc. This will give the contributor points. The owner of the comic can then choose which contribution they wnat to add to the comic. This makes it like patron and if you give more than 2 cents you get an NFT of the contribution. Maybe if you match the top contributor this way it is like biding on art expect you can not lose the bid if someone bids higher than you.
 
 ## My 3 Sentences
-People will get paid for contributing feedback on work but they will not get paid for upvotes at leat in the begining depending on how things go I may allow them to get paid as will but a less percentage than the people that contributed art work. Maybe even get aid based on upvotes
+People will get paid for contributing feedback on work but they will not get paid for upvotes at least in the begining depending on how things go I may allow them to get paid as will but a less percentage than the people that contributed art work. Maybe even get aid based on upvotes
 
 # Recurisive points
 To make sure people get paid a fair share people get paid recursvly. This means if I contribute a pencil someone else can take that pencil and press the button to make a deviation/change to the original. THe OG creater will get attribution allong with the the person that made the OG art. I will have to work out the distribution of points based on votes from contributors of the CNS open source project.
@@ -60,5 +60,14 @@ THier will be a chief tournament in whic the winner will be crown co chief of CN
 # Entertainment indutsry
 ## Music
 People will be able to contribute music like CC Mixer some will provide the beat others will others the lryics antoher the voice. The songs can be modifeed by any one making america great again one beat at time
-# Anime
-Comic will eventually evolve into animation which will be paired with music for opening songs and songs within the story. The comic will basicly serve as story boards and tween. My comic will serve as the base as I will draw it as one panel pages instead of 3-5 panels. Hopefully others will follow suite
+## Anime
+Comic will eventually evolve into animation which will be paired with music for opening songs and songs within the story. The comic will basicly serve as story boards and key frames. My comic will serve as the base as I will draw it as one panel pages instead of 3-5 panels. Hopefully others will follow suite
+## Games
+The CNS card game will serve as the begining to taping into the game  indusrty and will evole into the cyber.beast//cyber.beat game. it will be based on the cyber.beast comic. People can subit character stories and etc. This will be CNS plus reachs it Max.
+
+## Manifesto
+My dream is that it will be used for more than just the entertaimen industry which why it is open source and hopfully advance the gig ecoonmy
+It will be first come first serve everyone that contributes will get paid. Iit will aslo be intreated with the cyber.beast video game and a UBI this 50-80% of the profit from CNS plus will be used for an UBI. people can mine bitgems by slaying cyber.beast. As long as you are using a hub yuo will get a UBI you most contribute in some way at leat once a day to get paid a ubi. It may be cleaning up code or provide theropy for somebody. doing theropy you will need a lince to particpate. and you will get paid based on how good you are as a theripest
+
+## Ai
+Ai will be use to considated and unifie art at first. instead having someone that specailize in making sure all of the the comic art is in maybe a style guid master. IT will be replaceed by AI that will pick the art style of a spefic artst and make sure all of the art matches that art style the artis that gets picked picked will get paid maybe pointes/tokens by the Ai. They will also get points based on the income earned from selling the the comic as nfts or ads. May the primary AI being used will be the one that one the chiefs tounrament. voted on in part by skill and bitgems and views. This is much like an election as people may choose ai that is transparnet and enviornmentally friendly
