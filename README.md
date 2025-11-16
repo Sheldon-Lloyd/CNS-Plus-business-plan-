@@ -64,8 +64,16 @@ People will be able to contribute music like CC Mixer some will provide the beat
 Comic will eventually evolve into animation which will be paired with music for opening songs and songs within the story. The comic will basicly serve as story boards and key frames. My comic will serve as the base as I will draw it as one panel pages instead of 3-5 panels. Hopefully others will follow suite
 ## Games
 The CNS card game will serve as the begining to taping into the game  indusrty and will evole into the cyber.beast//cyber.beat game. it will be based on the cyber.beast comic. People can subit character stories and etc. This will be CNS plus reachs it Max.
+## Live Action
+Geting scripts and editing them. Also for special effects. Voice Overs. Logos
 
-## Manifesto
+# Version 1 Character Vault Character Network Squaure
+Character can be submited to the vault it will include a character profile. This profile has the Bio and images which includes concept, fan art, and a charaacter design sheet. The best image is shown on the right hand of the page. The rest of the images are shoem at random with the best images having the higher probability of being shown. Maybe you can pay to have it increase th chance of it being shown much lie an add when the random image button is shown. This will give then exposure so that they can get hired.
+
+# Version 2 Idea Vaualt Creative Network Square
+Ideas can be simple or complex it can be character vehicle creatures and envoirment art.
+
+# Manifesto
 My dream is that it will be used for more than just the entertaimen industry which why it is open source and hopfully advance the gig ecoonmy
 It will be first come first serve everyone that contributes will get paid. Iit will aslo be intreated with the cyber.beast video game and a UBI this 50-80% of the profit from CNS plus will be used for an UBI. people can mine bitgems by slaying cyber.beast. As long as you are using a hub yuo will get a UBI you most contribute in some way at leat once a day to get paid a ubi. It may be cleaning up code or provide theropy for somebody. doing theropy you will need a lince to particpate. and you will get paid based on how good you are as a theripest
 
