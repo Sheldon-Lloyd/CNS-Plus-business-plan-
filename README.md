@@ -58,6 +58,9 @@ Using github and reddit for contributions and voting and maybe using reddits coi
 THier will be a chief tournament in whic the winner will be crown co chief of CNS plus they will get to have input on ideas of the system. THis is one posiblity another is that AI will compete to be crown co cheif to help come up with ideas. it may be chatgpt gemni cronk etc. The Ais winner will be based votes at first then a CNS+chacter card gaemthen evolve to a cyber.beast game to crown the co chief
 
 # Entertainment indutsry
+## Photography
+posting refrence images and what not
+
 ## Music
 People will be able to contribute music like CC Mixer some will provide the beat others will others the lryics antoher the voice. The songs can be modifeed by any one making america great again one beat at time
 ## Anime
@@ -66,6 +69,7 @@ Comic will eventually evolve into animation which will be paired with music for 
 The CNS card game will serve as the begining to taping into the game  indusrty and will evole into the cyber.beast//cyber.beat game. it will be based on the cyber.beast comic. People can subit character stories and etc. This will be CNS plus reachs it Max.
 ## Live Action
 Geting scripts and editing them. Also for special effects. Voice Overs. Logos
+
 
 # Version 1 Character Vault Character Network Squaure
 Character can be submited to the vault it will include a character profile. This profile has the Bio and images which includes concept, fan art, and a charaacter design sheet. The best image is shown on the right hand of the page. The rest of the images are shoem at random with the best images having the higher probability of being shown. Maybe you can pay to have it increase th chance of it being shown much lie an add when the random image button is shown. This will give then exposure so that they can get hired.
