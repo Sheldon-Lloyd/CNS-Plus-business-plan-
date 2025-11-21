@@ -83,3 +83,34 @@ It will be first come first serve everyone that contributes will get paid. Iit w
 
 ## Ai
 Ai will be use to considated and unifie art at first. instead having someone that specailize in making sure all of the the comic art is in maybe a style guid master. IT will be replaceed by AI that will pick the art style of a spefic artst and make sure all of the art matches that art style the artis that gets picked picked will get paid maybe pointes/tokens by the Ai. They will also get points based on the income earned from selling the the comic as nfts or ads. May the primary AI being used will be the one that one the chiefs tounrament. voted on in part by skill and bitgems and views. This is much like an election as people may choose ai that is transparnet and enviornmentally friendly
+
+CNS plus also called creative network square. Like the name implies is a central hub designed to serve creative people 
+
+is suite of open source products. Like a square in real life--being a public place for gatherings or doing business--the plan is for it to be decentralized
+
+CNS plus will start with 
+
+CNS+ Roadmap
+WebcomicX › comicplus
+Since I already have the webcomicx CMS this will start as the flagship product for now. It's dated but still functional so feel free to use it.
+
+The plan is for comicplus to connect with the other tools and community. To make things easier comicplus content will be hosted on GitHub with the option to mirror it on your own. I'd like to think of it more as FTP cleient for uploading to github but it can also be hosted on the cloud. This is important for those that want more control or sites that outgrow free github hosting. But being conected to the free github hosting is great for people getting started. This is my attempt at making a decentralized
+
+CNS+(Character Network Square)
+A place to upload original characters that other people can use. To make sharing easier they should be primarly Creative Commons licensed but you can upload copright as well but I have no way to vet them at the moment
+
+CNS+(Comic Network Square)
+A plugin for ComicPlus the enables seemless comic collaboration on github hosted comics
+
+CNS+ (Character Narrative Suniverse/Square)
+World Wiki for comics
+A wiki for the universe of your comic much like World Anvil but it is shared in a decentrazited network apart of a larger multiverse for the comics of the CNS. It will allow people to not just share charactrs but entire worlds(suniverse). Thier will be 2 versions one for creative commons comics and the other for copy right comics
+
+Suniverse.cc (A Creative Commons Shared Universe)
+My attempt at making a marvel like open franchise starting with my own comics
+
+Suniverse.net
+A shared universe for non creative commons comics
+
+Collectable card Game
+A game that influence the multiverse event 
