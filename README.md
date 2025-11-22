@@ -35,6 +35,8 @@ You start off with maybe 10000. Which is over! 9000! points! You can use the poi
 # Character/Idea Vault
 People can also earn points by offering their character or idea as tribute. they will get points rather it is creative commons or not it might encourage more peolple to liecnce work as creative commns because they will be the ones that people will gravitate toward. The characters can start as an character profile and people can ask for help drawing it or they can draw thier self. It will be great for artist that  need practice as a character designer. People can also add ideas to the vault this way people can get paid for ideas may 2 points. The vault is spefic to CNS plus and is the only centralized part of the website. People can buy these idea and characters to use in thier comic using points
 
+people can add simple quotes monologuesand lines they come up with that can be used in stories and even get paid. maybe there can be tags such monologue, dialogue, villain hero, mentor etc
+
 # Fan fiction
 CC work can also encourage people to make fan fictions which will also encourage CC work. This become free promotion from fans including fan art. It will also allow fans to get paid for being fans and also create the posibilty of a a fan chaarcter being used in the comic of their favorite creator
 
